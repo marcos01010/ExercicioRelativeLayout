@@ -8,4 +8,5 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="fundo_verde">#08AD7F</color>
+    <color name="cinza_botao">#D1D1D1</color>
 </resources>
